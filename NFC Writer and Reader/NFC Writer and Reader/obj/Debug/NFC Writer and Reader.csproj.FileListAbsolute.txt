@@ -1,0 +1,1 @@
+c:\users\albert\documents\visual studio 2013\Projects\NFC Writer and Reader\NFC Writer and Reader\bin\Debug\NFC Writer and Reader.exe.config
